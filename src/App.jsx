@@ -26,7 +26,7 @@ function App() {
         <div className="buscar">
           <img src="icons/search.svg" alt="" />
           <img id="mic" src="icons/mic.svg" alt="" />
-          <a href="" className="boton">
+          <a href="" className="boton" >
             <i className="icon-buscar" />
           </a>
         </div>
